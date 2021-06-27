@@ -1,0 +1,62 @@
+{
+	"id": "91dbaf04-9e3a-4fb4-ab7e-53e9545451a7",
+	"brand": "Apple",
+	"name": "Macbook Air",
+	"cpu": {
+		"brand": "Intel",
+		"name": "Ryzen 5",
+		"number_cores": 3,
+		"number_threads": 4,
+		"min_ghz": 2.8526073072398828,
+		"max_ghz": 3.2212748933573563
+	},
+	"memory": {
+		"value": "15",
+		"unit": "GIGABYTE"
+	},
+	"gpus": [
+		{
+			"brand": "NVIDIA",
+			"name": "RTX 2060",
+			"min_ghz": 1.3206144551389472,
+			"max_ghz": 1.4084278700352248,
+			"memory": {
+				"value": "2",
+				"unit": "GIGABYTE"
+			}
+		}
+	],
+	"storages": [
+		{
+			"driver": "SSD",
+			"memory": {
+				"value": "297",
+				"unit": "GIGABYTE"
+			}
+		},
+		{
+			"driver": "HDD",
+			"memory": {
+				"value": "4",
+				"unit": "TERABYTE"
+			}
+		}
+	],
+	"screen": {
+		"size_inch": 16.506584,
+		"resolution": {
+			"width": 4106,
+			"height": 2310
+		},
+		"panel": "IPS",
+		"multitouch": true
+	},
+	"keyboard": {
+		"layout": "QWERTZ",
+		"backlit": true
+	},
+	"weight_kg": 2.221191018930263,
+	"price_usd": 2200.7701921182684,
+	"release_year": 2018,
+	"updated_at": "2021-06-26T13:16:51.523430500Z"
+}
