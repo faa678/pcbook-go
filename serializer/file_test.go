@@ -6,9 +6,9 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/stretchr/testify/require"
 
-	pb "github.com/techschool/pcbook/pb"
-	"github.com/techschool/pcbook/sample"
-	"github.com/techschool/pcbook/serializer"
+	pb "github.com/techschool/pcbook-go/pb"
+	"github.com/techschool/pcbook-go/sample"
+	"github.com/techschool/pcbook-go/serializer"
 )
 
 func TestFileSerializer(t *testing.T) {

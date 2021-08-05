@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	pb "github.com/techschool/pcbook/pb"
+	pb "github.com/techschool/pcbook-go/pb"
 )
 
 func init() {

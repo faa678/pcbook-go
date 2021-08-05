@@ -8,9 +8,9 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	pb "github.com/techschool/pcbook/pb"
-	"github.com/techschool/pcbook/sample"
-	"github.com/techschool/pcbook/service"
+	pb "github.com/techschool/pcbook-go/pb"
+	"github.com/techschool/pcbook-go/sample"
+	"github.com/techschool/pcbook-go/service"
 )
 
 func TestLaptopServer_CreateLaptop(t *testing.T) {

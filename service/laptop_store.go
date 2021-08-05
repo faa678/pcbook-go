@@ -9,7 +9,7 @@ import (
 
 	"github.com/jinzhu/copier"
 
-	pb "github.com/techschool/pcbook/pb"
+	pb "github.com/techschool/pcbook-go/pb"
 )
 
 var ErrAlreadyExists = errors.New("record already exists")

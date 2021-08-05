@@ -2,7 +2,7 @@ package sample
 
 import (
 	"github.com/golang/protobuf/ptypes"
-	pb "github.com/techschool/pcbook/pb"
+	pb "github.com/techschool/pcbook-go/pb"
 )
 
 // NewKeyboard returns a new sample keyboard

@@ -3,7 +3,7 @@ syntax = "proto3";
 package pb;
 
 option go_package = "."; // option go_package = "{out_path};out_go_package";
-option java_package = "com.github.techschool.pcbook.pb";
+option java_package = "com.github.techschool.pcbook-java.pb";
 option java_multiple_files = true;
 
 import "memory_message.proto";

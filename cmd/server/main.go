@@ -8,8 +8,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "github.com/techschool/pcbook/pb"
-	"github.com/techschool/pcbook/service"
+	pb "github.com/techschool/pcbook-go/pb"
+	"github.com/techschool/pcbook-go/service"
 )
 
 func main() {

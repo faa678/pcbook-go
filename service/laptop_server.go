@@ -11,7 +11,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	pb "github.com/techschool/pcbook/pb"
+	pb "github.com/techschool/pcbook-go/pb"
 )
 
 const maxImageSize = 1 << 20

@@ -13,10 +13,10 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
 
-	pb "github.com/techschool/pcbook/pb"
-	"github.com/techschool/pcbook/sample"
-	"github.com/techschool/pcbook/serializer"
-	"github.com/techschool/pcbook/service"
+	pb "github.com/techschool/pcbook-go/pb"
+	"github.com/techschool/pcbook-go/sample"
+	"github.com/techschool/pcbook-go/serializer"
+	"github.com/techschool/pcbook-go/service"
 )
 
 func TestClientCreateLaptop(t *testing.T) {
