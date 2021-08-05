@@ -3,6 +3,8 @@ syntax = "proto3";
 package pb;
 
 option go_package = ".";
+option java_package = "com.github.techschool.pcbook.pb";
+option java_multiple_files = true;
 
 message Screen {
   message Resolution {

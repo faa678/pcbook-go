@@ -1,27 +1,27 @@
 {
-	"id": "91dbaf04-9e3a-4fb4-ab7e-53e9545451a7",
-	"brand": "Apple",
-	"name": "Macbook Air",
+	"id": "03e1b157-52d4-4fbf-8a38-f869133c45f8",
+	"brand": "Lenovo",
+	"name": "Thinkpad P1",
 	"cpu": {
 		"brand": "Intel",
-		"name": "Ryzen 5",
+		"name": "Ryzen 7",
 		"number_cores": 3,
 		"number_threads": 4,
-		"min_ghz": 2.8526073072398828,
-		"max_ghz": 3.2212748933573563
+		"min_ghz": 3.3935832142444733,
+		"max_ghz": 4.1902947419192715
 	},
 	"memory": {
-		"value": "15",
+		"value": "62",
 		"unit": "GIGABYTE"
 	},
 	"gpus": [
 		{
-			"brand": "NVIDIA",
-			"name": "RTX 2060",
-			"min_ghz": 1.3206144551389472,
-			"max_ghz": 1.4084278700352248,
+			"brand": "AMD",
+			"name": "RX 590",
+			"min_ghz": 1.4835259042763222,
+			"max_ghz": 1.9624765358543477,
 			"memory": {
-				"value": "2",
+				"value": "4",
 				"unit": "GIGABYTE"
 			}
 		}
@@ -30,33 +30,33 @@
 		{
 			"driver": "SSD",
 			"memory": {
-				"value": "297",
+				"value": "857",
 				"unit": "GIGABYTE"
 			}
 		},
 		{
 			"driver": "HDD",
 			"memory": {
-				"value": "4",
+				"value": "1",
 				"unit": "TERABYTE"
 			}
 		}
 	],
 	"screen": {
-		"size_inch": 16.506584,
+		"size_inch": 13.65193,
 		"resolution": {
-			"width": 4106,
-			"height": 2310
+			"width": 6485,
+			"height": 3648
 		},
 		"panel": "IPS",
 		"multitouch": true
 	},
 	"keyboard": {
-		"layout": "QWERTZ",
+		"layout": "QWERTY",
 		"backlit": true
 	},
-	"weight_kg": 2.221191018930263,
-	"price_usd": 2200.7701921182684,
-	"release_year": 2018,
-	"updated_at": "2021-06-26T13:16:51.523430500Z"
+	"weight_kg": 2.3570060847614034,
+	"price_usd": 2600.4808579298233,
+	"release_year": 2015,
+	"updated_at": "2021-08-05T13:46:48.498699034Z"
 }
